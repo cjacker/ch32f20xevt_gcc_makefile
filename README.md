@@ -9,6 +9,7 @@ This firmware library support below parts from WCH:
 - ch32f203c8t6
 - ch32f203c8u6
 - ch32f203cbt6
+- ch32f203rbt6
 - ch32f203rct6
 - ch32f203vct6
 - ch32f205rbt6
